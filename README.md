@@ -1,6 +1,6 @@
 ## 快餐厅点餐webAPP
 ### 可提前预约，免去排队等带烦恼
-
+![image](https://github.com/12345555666789/order/blob/master/GIF.gif)
 
 ## 跨域不能携带cookie的解决方案
 - 在后台加上下面这句话
